@@ -1,0 +1,8 @@
+body {
+  font-family: "Oxygen", sans-serif;
+  padding: 20px 40px;
+}
+
+* {
+  box-sizing: border-box;
+}

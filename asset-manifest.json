@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Shop/static/js/main.ff679df9.js",
+    "static/media/shopping-bag.svg": "/Shop/static/media/shopping-bag.f360edb96ec433ae7466879cc2ae07f7.svg",
+    "index.html": "/Shop/index.html",
+    "main.ff679df9.js.map": "/Shop/static/js/main.ff679df9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ff679df9.js"
+  ]
+}
